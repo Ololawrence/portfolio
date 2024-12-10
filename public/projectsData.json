@@ -1,0 +1,37 @@
+[
+    {
+        "projectCategory": "Full-Stack",
+        "projectName": "hi-mart",
+        "projectDescription": "hi-mart is a online super store. Here user can create an account with email and password. After creating the account user is redirected to the page from where he was taken to login page. User can place order, User can delete product from cart. User can update their profile.",
+        "liveWebsiteLink": "https://hi-marts.onrender.com/",
+        "clientSideCodeLink": "https://github.com/Ololawrence/himartfrontend.git",
+        "serverSideCodeLink": "https://github.com/Ololawrence/stripepaybackend.git",
+        "technologyUsed": "React, Express.js MongoDB, JWT",
+        "projectImg": "https://i.ibb.co/x2HVkZV/Capture1.png",
+        "projectStartDate": "",
+        "projectEndDate": ""
+    },
+    {
+        "projectCategory": "Full-Stack",
+        "projectName": "Warehouse Management System",
+        "projectDescription": "POSDash is an inventory management system website. Here user can create an account with email and password. User can also use social media like Google and GitHub to login. After creating the account user is redirected to the page from where he was taken to login page. User can add items to inventory, they can update items stock. User can delete items from inventory. User can add items to their profile. These items can be viewed from My Items page. User can delete their items.",
+        "liveWebsiteLink": "https://posdash-37746.web.app/",
+
+        "technologyUsed": "React, Express.js MongoDB, Firebase, JWT",
+        "projectImg": "https://i.ibb.co/273Ky0j/Warehouse-Management-System.png",
+        "projectStartDate": "",
+        "projectEndDate": ""
+    },
+    {
+        "projectCategory": "Full-Stack",
+        "projectName": "A Doctor appointment web app",
+        "projectDescription": ".",
+        "liveWebsiteLink": "https://doctor-appointment-frontend-kamz.onrender.com/",
+        "clientSideCodeLink": "https://github.com/Ololawrence/doctor-appointment-frontend",
+        "serverSideCodeLink": "https://github.com/Ololawrence/doctor-appointment-app",
+        "technologyUsed": "React, Express.js MongoDB",
+        "projectImg": "https://i.ibb.co/FJBrLkY/Capture2.png",
+        "projectStartDate": "",
+        "projectEndDate": ""
+    }
+]
